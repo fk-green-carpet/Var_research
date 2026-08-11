@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this research, please cite the paper and this repository."
+title: "Bridging What Futures Miss"
+type: software
+authors:
+  - family-names: Kwok
+    given-names: Felix
+version: 1.0.0
+date-released: 2026-08-11
+abstract: >-
+  Public research materials for factor-conditioned, moment-matched Brownian
+  bridges used to construct commodity cash-month historical VaR scenarios.
+keywords:
+  - commodity risk
+  - historical Value at Risk
+  - Brownian bridge
+  - moment matching
+  - natural gas
+  - electricity
